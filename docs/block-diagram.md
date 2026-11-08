@@ -1,4 +1,6 @@
+# System Block Diagram
 
+```mermaid
 flowchart LR
     G[Guitar Input] --> P[Pre-Amplifier]
     P --> T[Tone Control]
